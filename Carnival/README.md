@@ -1,12 +1,18 @@
+Project #1. by Jaecheong Shin
+
 # Udacity Carnival
 Starter project for the Udacity [VR Developer Nanodegree](http://udacity.com/vr) program.
 
 - Course: Introduction to Virtual Reality
 - Project: Udacity Carnival
-
+- Fix : 1)Flinko : Changed Osiciliation distance to 0.7
+        2)Coin toss : Changed Max power to 13 and Min power to 10
+        3)Wheel of Fortune : Changed texts to 50
+        4)Moved Teddybear
+        5)Personalized ScroeBoard
 
 ### Versions Used
-- [Unity LTS Release 2017.4.15](https://unity3d.com/unity/qa/lts-releases?version=2017.4)
+- [Unity LTS Release 2017.4.17f1](https://unity3d.com/unity/qa/lts-releases?version=2017.4)
 - [GVR SDK for Unity v1.170.0](https://github.com/googlevr/gvr-unity-sdk/releases/tag/v1.170.0)
 - [TextMesh Pro](https://assetstore.unity.com/packages/essentials/beta-projects/textmesh-pro-84126) v1.2.2
 
