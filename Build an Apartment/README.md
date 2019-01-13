@@ -1,12 +1,16 @@
+Project #2. by Jaecheong Shin
+
 # Build an Apartment
 Starter project for the Udacity [VR Developer Nanodegree](http://udacity.com/vr) program.
 
 - Course: VR Scenes & Objects
 - Project: Build an Apartment
+- Summary : Add 15 models and globe with animation. Add 2 spot light, area light and directional light. It takes 2 hours to complete. The most difficult thing was Camera , detail is on the below.
+- Problem : As seen in screenshot, Left and Right cameras show only half of eyefield.
 
 
 ### Versions Used
-- [Unity LTS Release 2017.4.15](https://unity3d.com/unity/qa/lts-releases?version=2017.4)
+- [Unity LTS Release 2017.4.17f1](https://unity3d.com/unity/qa/lts-releases?version=2017.4)
 - [GVR SDK for Unity v1.170.0](https://github.com/googlevr/gvr-unity-sdk/releases/tag/v1.170.0)
 
 
