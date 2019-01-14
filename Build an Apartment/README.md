@@ -5,8 +5,8 @@ Starter project for the Udacity [VR Developer Nanodegree](http://udacity.com/vr)
 
 - Course: VR Scenes & Objects
 - Project: Build an Apartment
-- Summary : Add 15 models and globe with animation. Add 2 spot light, area light and directional light. It takes 2 hours to complete. The most difficult thing was Camera , detail is on the below.
-- Problem : As seen in screenshot, Left and Right cameras show only half of eyefield.
+- OS : Android
+- Summary : Add 15 models and globe with animation. Add 2 spot light, area light and directional light. It takes 2 hours to complete. The most difficult thing was Camera 
 
 
 ### Versions Used
